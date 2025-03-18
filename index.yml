@@ -10,9 +10,41 @@ contacts:
     homePageUrl: https://github.com/Jaqster
 files:
   - path: course1/unit2/lesson1/lessonpart1/newFile.html
-    content: asdf
-  - path: course1/unit2/lesson1/lessonpart1/newFile.css
-    content: asdfsadf
+    content: "<!DOCTYPE html>\r
+
+      <html>\r
+
+      <head>\r
+
+      \    <meta charset='utf-8'>\r
+
+      \    <meta http-equiv='X-UA-Compatible' content='IE=edge'>\r
+
+      \    <title>Page Title</title>\r
+
+      \    <meta name='viewport' content='width=device-width,
+      initial-scale=1'>\r
+
+      \    <link rel='stylesheet' type='text/css' media='screen'
+      href='main.css'>\r
+
+      \    <script src='main.js'></script>\r
+
+      </head>\r
+
+      <body>\r
+
+      \    <div>\r
+
+      \        <p>Some information here.</p>\r
+
+      \        <p>Testing Testing testing</p>\r
+
+      \    </div>\r
+
+      </body>\r
+
+      </html>>"
 units:
   - unit1/index.yml
   - unit2/index.yml
