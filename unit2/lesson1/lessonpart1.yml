@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart1
+title: Page 1
+content: |
+  # Welcome to Web Dev!
+
+  Here's some information to get you started.
+
+  asdfasdffd
+
+  asdfd fhajkshdfj asdf
+editors:
+  - course1/unit2/lesson1/lessonpart1/newFile.html
+  - course1/unit2/lesson1/lessonpart1/newFile.css
+  - course1/unit2/lesson1/lessonpart1/newFile.js
